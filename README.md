@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Hi, I'm Ahmet. I am a freshman Computer Engineering student at Bilkent University
 <!--
 **Ahmettyalciinkaya/Ahmettyalciinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
